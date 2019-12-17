@@ -1,5 +1,6 @@
 # r2d2-euslisp
-make R2D2 model with euslisp
+ロボットシステムの授業の課題としてeuslispで作成したR2D2
+実行するにはroseusの実行環境が必要
 
 show R2D2 model by using irtviewer
 ```
